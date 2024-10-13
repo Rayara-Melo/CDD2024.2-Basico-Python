@@ -1,0 +1,4 @@
+#USANDO O FOR, MOSTRE OS NÚMEROS PARES DE 1 A 100, MAS EM ORDEM DECRESCENTE
+
+for i in range(100,0,-1):
+    print(i)
